@@ -1,7 +1,4 @@
 ---
-title: "clustering- Assignment 3 | IDS 572 "
-author: "Chaitra Srirama, Viharika Bharti, Aditya Gajula"
-date: "4/12/2020"
 output: html_document
 ---
 
